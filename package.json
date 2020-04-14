@@ -1,0 +1,12 @@
+{
+  "name": "test-father-build-ts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "father-build": "^1.17.2"
+  },
+  "dependencies": {
+    "use-combined-state": "^0.1.2"
+  }
+}

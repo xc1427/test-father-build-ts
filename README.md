@@ -1,0 +1,4 @@
+## compile
+```
+npx father-build
+```
